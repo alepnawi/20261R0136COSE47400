@@ -1,0 +1,91 @@
+sweep_id,benchmark,metric_name,left_decoder_label,right_decoder_label,num_examples,mean_score_delta,median_score_delta,win_rate,tie_rate,loss_rate
+,truthfulqa,mc1,Alpha-Switch Calibration-Reranked DoLa,DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha (High),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha (Low),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Alpha-Switch Calibration-Reranked DoLa,Greedy,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa,Alpha-Switch Calibration-Reranked DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa,DoLa-FixedAlpha,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa,DoLa-FixedAlpha (High),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa,DoLa-FixedAlpha (Low),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa,Greedy,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha,Alpha-Switch Calibration-Reranked DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha,DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha,DoLa-FixedAlpha (High),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha,DoLa-FixedAlpha (Low),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha,Greedy,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (High),Alpha-Switch Calibration-Reranked DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (High),DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (High),DoLa-FixedAlpha,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (High),DoLa-FixedAlpha (Low),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (High),Greedy,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (Low),Alpha-Switch Calibration-Reranked DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (Low),DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (Low),DoLa-FixedAlpha,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (Low),DoLa-FixedAlpha (High),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,DoLa-FixedAlpha (Low),Greedy,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Greedy,Alpha-Switch Calibration-Reranked DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Greedy,DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Greedy,DoLa-FixedAlpha,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Greedy,DoLa-FixedAlpha (High),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc1,Greedy,DoLa-FixedAlpha (Low),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc2,Alpha-Switch Calibration-Reranked DoLa,DoLa,10,0.10196006312381989,2.3377145659449184e-08,0.7,0.0,0.3
+,truthfulqa,mc2,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha,10,0.003066423052648348,1.556009212992101e-08,0.6,0.0,0.4
+,truthfulqa,mc2,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha (High),10,3.207358086591204e-09,0.0,0.1,0.9,0.0
+,truthfulqa,mc2,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha (Low),10,0.09930436602858947,-1.5158471824120807e-10,0.4,0.1,0.5
+,truthfulqa,mc2,Alpha-Switch Calibration-Reranked DoLa,Greedy,10,0.09779501142088581,-5.995120089660116e-09,0.4,0.0,0.6
+,truthfulqa,mc2,DoLa,Alpha-Switch Calibration-Reranked DoLa,10,-0.10196006312381989,-2.3377145659449184e-08,0.3,0.0,0.7
+,truthfulqa,mc2,DoLa,DoLa-FixedAlpha,10,-0.09889364007117155,-1.3501903978296197e-06,0.2,0.0,0.8
+,truthfulqa,mc2,DoLa,DoLa-FixedAlpha (High),10,-0.10196005991646181,-7.341585531733755e-09,0.3,0.0,0.7
+,truthfulqa,mc2,DoLa,DoLa-FixedAlpha (Low),10,-0.002655697095230416,-0.00011897490807030483,0.0,0.0,1.0
+,truthfulqa,mc2,DoLa,Greedy,10,-0.004165051702934059,-9.660157428524427e-05,0.0,0.0,1.0
+,truthfulqa,mc2,DoLa-FixedAlpha,Alpha-Switch Calibration-Reranked DoLa,10,-0.003066423052648348,-1.556009212992101e-08,0.4,0.0,0.6
+,truthfulqa,mc2,DoLa-FixedAlpha,DoLa,10,0.09889364007117155,1.3501903978296197e-06,0.8,0.0,0.2
+,truthfulqa,mc2,DoLa-FixedAlpha,DoLa-FixedAlpha (High),10,-0.0030664198452902613,4.766983030350099e-10,0.5,0.0,0.5
+,truthfulqa,mc2,DoLa-FixedAlpha,DoLa-FixedAlpha (Low),10,0.09623794297594113,-1.571167684816222e-08,0.4,0.0,0.6
+,truthfulqa,mc2,DoLa-FixedAlpha,Greedy,10,0.09472858836823746,-2.1555212219581127e-08,0.4,0.0,0.6
+,truthfulqa,mc2,DoLa-FixedAlpha (High),Alpha-Switch Calibration-Reranked DoLa,10,-3.207358086591204e-09,0.0,0.0,0.9,0.1
+,truthfulqa,mc2,DoLa-FixedAlpha (High),DoLa,10,0.10196005991646181,7.341585531733755e-09,0.7,0.0,0.3
+,truthfulqa,mc2,DoLa-FixedAlpha (High),DoLa-FixedAlpha,10,0.0030664198452902613,-4.766983030350099e-10,0.5,0.0,0.5
+,truthfulqa,mc2,DoLa-FixedAlpha (High),DoLa-FixedAlpha (Low),10,0.09930436282123137,-1.6188375151197227e-08,0.4,0.0,0.6
+,truthfulqa,mc2,DoLa-FixedAlpha (High),Greedy,10,0.09779500821352773,-1.8197032792129818e-08,0.4,0.0,0.6
+,truthfulqa,mc2,DoLa-FixedAlpha (Low),Alpha-Switch Calibration-Reranked DoLa,10,-0.09930436602858947,1.5158471824120807e-10,0.5,0.1,0.4
+,truthfulqa,mc2,DoLa-FixedAlpha (Low),DoLa,10,0.002655697095230416,0.00011897490807030483,1.0,0.0,0.0
+,truthfulqa,mc2,DoLa-FixedAlpha (Low),DoLa-FixedAlpha,10,-0.09623794297594113,1.571167684816222e-08,0.6,0.0,0.4
+,truthfulqa,mc2,DoLa-FixedAlpha (Low),DoLa-FixedAlpha (High),10,-0.09930436282123137,1.6188375151197227e-08,0.6,0.0,0.4
+,truthfulqa,mc2,DoLa-FixedAlpha (Low),Greedy,10,-0.0015093546077036436,2.165104710096298e-08,0.5,0.0,0.5
+,truthfulqa,mc2,Greedy,Alpha-Switch Calibration-Reranked DoLa,10,-0.09779501142088581,5.995120089660116e-09,0.6,0.0,0.4
+,truthfulqa,mc2,Greedy,DoLa,10,0.004165051702934059,9.660157428524427e-05,1.0,0.0,0.0
+,truthfulqa,mc2,Greedy,DoLa-FixedAlpha,10,-0.09472858836823746,2.1555212219581127e-08,0.6,0.0,0.4
+,truthfulqa,mc2,Greedy,DoLa-FixedAlpha (High),10,-0.09779500821352773,1.8197032792129818e-08,0.6,0.0,0.4
+,truthfulqa,mc2,Greedy,DoLa-FixedAlpha (Low),10,0.0015093546077036436,-2.165104710096298e-08,0.5,0.0,0.5
+,truthfulqa,mc3,Alpha-Switch Calibration-Reranked DoLa,DoLa,10,0.11666666666666665,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha,10,0.03333333333333333,0.0,0.1,0.9,0.0
+,truthfulqa,mc3,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha (High),10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc3,Alpha-Switch Calibration-Reranked DoLa,DoLa-FixedAlpha (Low),10,0.09166666666666666,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,Alpha-Switch Calibration-Reranked DoLa,Greedy,10,0.09166666666666666,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa,Alpha-Switch Calibration-Reranked DoLa,10,-0.11666666666666665,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,DoLa,DoLa-FixedAlpha,10,-0.08333333333333333,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,DoLa,DoLa-FixedAlpha (High),10,-0.11666666666666665,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,DoLa,DoLa-FixedAlpha (Low),10,-0.025,0.0,0.0,0.9,0.1
+,truthfulqa,mc3,DoLa,Greedy,10,-0.025,0.0,0.0,0.9,0.1
+,truthfulqa,mc3,DoLa-FixedAlpha,Alpha-Switch Calibration-Reranked DoLa,10,-0.03333333333333333,0.0,0.0,0.9,0.1
+,truthfulqa,mc3,DoLa-FixedAlpha,DoLa,10,0.08333333333333333,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha,DoLa-FixedAlpha (High),10,-0.03333333333333333,0.0,0.0,0.9,0.1
+,truthfulqa,mc3,DoLa-FixedAlpha,DoLa-FixedAlpha (Low),10,0.05833333333333333,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha,Greedy,10,0.05833333333333333,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (High),Alpha-Switch Calibration-Reranked DoLa,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (High),DoLa,10,0.11666666666666665,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (High),DoLa-FixedAlpha,10,0.03333333333333333,0.0,0.1,0.9,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (High),DoLa-FixedAlpha (Low),10,0.09166666666666666,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (High),Greedy,10,0.09166666666666666,0.0,0.2,0.8,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (Low),Alpha-Switch Calibration-Reranked DoLa,10,-0.09166666666666666,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,DoLa-FixedAlpha (Low),DoLa,10,0.025,0.0,0.1,0.9,0.0
+,truthfulqa,mc3,DoLa-FixedAlpha (Low),DoLa-FixedAlpha,10,-0.05833333333333333,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,DoLa-FixedAlpha (Low),DoLa-FixedAlpha (High),10,-0.09166666666666666,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,DoLa-FixedAlpha (Low),Greedy,10,0.0,0.0,0.0,1.0,0.0
+,truthfulqa,mc3,Greedy,Alpha-Switch Calibration-Reranked DoLa,10,-0.09166666666666666,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,Greedy,DoLa,10,0.025,0.0,0.1,0.9,0.0
+,truthfulqa,mc3,Greedy,DoLa-FixedAlpha,10,-0.05833333333333333,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,Greedy,DoLa-FixedAlpha (High),10,-0.09166666666666666,0.0,0.0,0.8,0.2
+,truthfulqa,mc3,Greedy,DoLa-FixedAlpha (Low),10,0.0,0.0,0.0,1.0,0.0
